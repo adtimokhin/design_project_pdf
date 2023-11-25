@@ -1,0 +1,1 @@
+from .a4_pdf_generator import PDFGenerator

@@ -750,6 +750,9 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+# Test filder that stores created pdfs
+.pdfs/
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
